@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 this me zakaria
-=======
-this me hytr
->>>>>>> f8a4e0c6fc639969b13365c1e9d7da9f3811c82e
+
